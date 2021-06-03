@@ -43,9 +43,17 @@ Here are some ideas to get you started:
    <br/>
    <br/>
    <br/>
+   <p align="center">
+<img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=akashdeep007&&show_icons=true&theme=onedark" alt="akashdeep007"/> 
+<img align="left" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep007&theme=nord" alt="akashdeep007" />
+</p>
    <br/>
    <br/>
   <br/>
-  <h6>Vibing to: </h6>
+    <br/>
+  <br/>
+   <div align="left">
   
  ![Spotify](https://spotify-436ihai47-akashdeep007.vercel.app/api/spotify)
+      
+   </div>
