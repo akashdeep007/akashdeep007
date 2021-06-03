@@ -40,3 +40,5 @@ Here are some ideas to get you started:
 </a>
 <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=akashdeep007.akashdeep007" alt="Vistor Badge"></a>
 </p>
+  
+ ![Spotify](https://spotify-436ihai47-akashdeep007.vercel.app/api/spotify)
